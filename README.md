@@ -8,7 +8,7 @@ You are expected to:
 
 I include pytest in this section and the result is shown on the screenshot.
 
-##Things done  
--Convert Arabic Numerals to Roman Numerals by implementing convertion.py  
--Implement pytest to test program and use multiple test examples convertion_test.py  
--Github action by workflow  workflows
+## Things done  
+- Convert Arabic Numerals to Roman Numerals by implementing convertion.py  
+- Implement pytest to test program and use multiple test examples convertion_test.py  
+- Github action by workflow  workflows
