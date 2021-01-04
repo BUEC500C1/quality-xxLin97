@@ -7,6 +7,7 @@ You are expected to:
 - Integrate unit test and run the unit test in continuous integration process.
 
 I include pytest in this section and the result is shown on the screenshot.
+![image](https://github.com/BUEC500C1/quality-xxLin97/blob/master/quality_test.png)
 
 ## Things done  
 - Convert Arabic Numerals to Roman Numerals by implementing convertion.py  
